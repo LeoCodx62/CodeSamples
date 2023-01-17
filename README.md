@@ -4,4 +4,4 @@ Code sample from a university project consisting of a simulation of a robot pick
 We coded the robot movements to the different places, the object detection and the pick/place routine.
 In the folder there is a video shwoing the task and a brief report about the project.
 
-The code can be found in the src folder navigation_client/server and the three nodes.
+The code can be found in the src folder in particular: navigation_client/server and the three nodes.
